@@ -1,0 +1,61 @@
+# Hospital Management Data Analytics | Excel Project
+
+## Project Overview
+This project demonstrates the application of Microsoft Excel for data analysis using a hospital management use case.  
+It focuses on data cleaning, exploratory analysis, KPI tracking, and dashboard creation to support data-driven decision making.
+
+---
+
+## Key Objectives
+- Analyze patient admission and discharge trends  
+- Evaluate department-wise operational performance  
+- Perform hospital revenue and billing analysis  
+- Identify inefficiencies using length-of-stay metrics  
+- Build an interactive Excel dashboard for insights  
+
+---
+
+## Tools & Skills
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Excel Functions: SUMIFS, COUNTIFS, IF, IFERROR, XLOOKUP  
+- Data Cleaning & Validation  
+- Date & Time Analysis  
+- Dashboard Design with Slicers  
+
+---
+
+## Dataset Summary
+Simulated hospital dataset containing:
+- Patient demographics and admission details  
+- Department and doctor information  
+- Billing, charges, and payment modes  
+
+---
+
+## Analysis Performed
+- Patient volume analysis by month and department  
+- Revenue contribution by department  
+- Average length of stay (LOS) analysis  
+- Gender and age group distribution  
+- Peak admission period identification  
+
+---
+
+## Dashboard Features
+- KPIs: Total Patients, Total Revenue, Average Length of Stay  
+- Department-wise patient and revenue charts  
+- Interactive filters for department and time period  
+
+---
+
+## Key Outcomes
+- Improved understanding of healthcare data analytics  
+- Strong foundation in Excel-based analysis workflows  
+- Ability to translate raw data into actionable business insights  
+
+---
+
+## Author
+Mehar Gaush 
+BCA Graduate | Aspiring Data Analyst  
